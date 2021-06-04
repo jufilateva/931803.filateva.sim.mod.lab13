@@ -1,0 +1,30 @@
+C:\Users\Тая\source\repos\Laba13\Laba13\bin\Debug\Laba13.exe.config
+C:\Users\Тая\source\repos\Laba13\Laba13\bin\Debug\Laba13.exe
+C:\Users\Тая\source\repos\Laba13\Laba13\bin\Debug\Laba13.pdb
+C:\Users\Тая\source\repos\Laba13\Laba13\obj\Debug\Laba13.csprojAssemblyReference.cache
+C:\Users\Тая\source\repos\Laba13\Laba13\obj\Debug\Laba13.Form1.resources
+C:\Users\Тая\source\repos\Laba13\Laba13\obj\Debug\Laba13.Properties.Resources.resources
+C:\Users\Тая\source\repos\Laba13\Laba13\obj\Debug\Laba13.csproj.GenerateResource.cache
+C:\Users\Тая\source\repos\Laba13\Laba13\obj\Debug\Laba13.csproj.CoreCompileInputs.cache
+C:\Users\Тая\source\repos\Laba13\Laba13\obj\Debug\Laba13.exe
+C:\Users\Тая\source\repos\Laba13\Laba13\obj\Debug\Laba13.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Laba13 (пуассон)\Laba13\bin\Debug\Laba13.exe.config
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Laba13 (пуассон)\Laba13\bin\Debug\Laba13.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Laba13 (пуассон)\Laba13\bin\Debug\Laba13.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.csprojAssemblyReference.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.Form1.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.Properties.Resources.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.csproj.GenerateResource.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.csproj.CoreCompileInputs.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Тая\Laba13 (пуассон)\Laba13\bin\Debug\Laba13.exe.config
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Тая\Laba13 (пуассон)\Laba13\bin\Debug\Laba13.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Тая\Laba13 (пуассон)\Laba13\bin\Debug\Laba13.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Тая\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.csprojAssemblyReference.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Тая\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.Form1.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Тая\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.Properties.Resources.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Тая\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.csproj.GenerateResource.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Тая\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.csproj.CoreCompileInputs.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Тая\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba13\Тая\Laba13 (пуассон)\Laba13\obj\Debug\Laba13.pdb
